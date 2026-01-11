@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="parser" src="https://github.com/user-attachments/assets/7dd37718-7700-488e-8d3d-5cdb2c886034" />
+
+<img width="1024" height="1024" alt="parser image" src="https://github.com/user-attachments/assets/b1a8bdf8-f029-4415-97c2-07eb0775018b" />
 
 Parser for MavLang Programming Language
 
