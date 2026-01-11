@@ -1,0 +1,5 @@
+launch {
+  target x;
+  x assign 10;
+  --signal x;
+}

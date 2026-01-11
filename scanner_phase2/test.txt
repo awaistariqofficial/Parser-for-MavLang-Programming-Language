@@ -1,0 +1,7 @@
+launch {
+  target x;
+  x assign 10;
+  lock ( x ) {
+    signal x;
+  }
+}
