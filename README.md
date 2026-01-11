@@ -1,5 +1,6 @@
-Parser for MavLang Programming Language
 <img width="1536" height="1024" alt="parser" src="https://github.com/user-attachments/assets/7dd37718-7700-488e-8d3d-5cdb2c886034" />
+
+Parser for MavLang Programming Language
 
 This repository contains the syntax analyzer (parser) for MavLang, a custom educational programming language designed as part of a Compiler Construction course project. The parser represents Phase 02 of the project and is responsible for validating the grammatical structure of programs written in MavLang.
 
